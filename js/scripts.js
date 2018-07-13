@@ -23,6 +23,13 @@ function pingPong (number){
 
 $(document).ready(function(){
     $("form#ping-pong").submit(function(){
-        
-    }
-}
+        event.preventDefault();
+        var number = parseInt($("input#number").val());
+
+        pingPong(number);
+
+        numbersToBePingponged.forEach(function(number){
+            $("#output").append('<li> + number + "</li>');
+        });
+    });
+});
