@@ -6,5 +6,8 @@ function pingPong (number){
         if(index % 15 === 0){
             numbersToBePingponged.push("pingpong");
         }
+        else if(index % 5 === 0){
+            
+        }
     }
 }
