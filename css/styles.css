@@ -30,3 +30,14 @@ li{
     padding-top: 100px;
     margin-left: 45%;
 }
+.name{
+    padding-top: 200px;
+    text-align: center;
+    text-transform:uppercase;
+    font-family: 'Modak', Open Sans;
+    color: white;
+    font-size: 200px;
+}
+.bg-1{
+    padding: 0;
+}
