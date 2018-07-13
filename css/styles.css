@@ -41,3 +41,16 @@ li{
 .bg-1{
     padding: 0;
 }
+.side{
+	color: #ffffff;
+	padding: 0;
+	background-image: url(../img/console.jpg);
+     background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
