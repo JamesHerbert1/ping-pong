@@ -7,7 +7,7 @@ function pingPong (number){
             numbersToBePingponged.push("pingpong");
         }
         else if(index % 5 === 0){
-            
+            numbersToBePingponged.push("pong");
         }
     }
 }
