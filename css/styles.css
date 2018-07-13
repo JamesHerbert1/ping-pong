@@ -54,3 +54,14 @@ li{
     background-size: cover;
 	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
+.bttn{
+    background-color: 	#008000;
+    color: white;
+    font-size: 18px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	margin-left: 30px; 
+}
