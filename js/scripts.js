@@ -9,5 +9,8 @@ function pingPong (number){
         else if(index % 5 === 0){
             numbersToBePingponged.push("pong");
         }
+        else if(index % 3 === 0){
+            numbersToBePingponged.push("ping");
+        }
     }
 }
