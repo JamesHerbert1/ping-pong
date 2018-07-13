@@ -21,3 +21,8 @@ function pingPong (number){
 
 // User interface logic
 
+$(document).ready(function(){
+    $("form#ping-pong").submit(function(){
+        
+    }
+}
