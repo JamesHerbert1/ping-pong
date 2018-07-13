@@ -26,3 +26,7 @@ li{
     height: 900px;
     background:rgba(0,0,0,0.7);
 }
+#start{
+    padding-top: 100px;
+    margin-left: 45%;
+}
