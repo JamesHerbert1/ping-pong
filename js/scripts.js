@@ -12,5 +12,8 @@ function pingPong (number){
         else if(index % 3 === 0){
             numbersToBePingponged.push("ping");
         }
+        else{
+            numbersToBePingponged.push(index);
+        }
     }
 }
