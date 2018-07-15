@@ -48,7 +48,7 @@ Ping-Pong
 >
 >---------------------------
 >
->Link to deployed page _(click here)_<a href=https://jamesherbert1.github.io/ping-pong/" title="Title">
+>Link to deployed page _(click here)_<a href="https://jamesherbert1.github.io/ping-pong/" title="Title">
 Ping-Pong</a>
 >
 >---------------------------

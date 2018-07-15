@@ -29,7 +29,7 @@ $(document).ready(function(){
         pingPong(number);
 
         numbersToBePingponged.forEach(function(number){
-            $("#output").append('<li> + number + "</li>');
+            $("#output").append('<li>' + number + "</li>");
         });
     });
 });
